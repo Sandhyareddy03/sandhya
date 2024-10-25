@@ -1,0 +1,14 @@
+<html>
+<head>
+<link src="external.css"rel="stylesheet"
+href="external.css"/>
+</head>
+<body>
+<center><h1>welcome to external css</h1></center>
+h1{
+    colour:yellowgreen;
+    background-color:burlywood;
+    text-aligin:center;
+}
+</body>
+</html>
